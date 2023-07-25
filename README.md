@@ -1,5 +1,6 @@
 ### Hi there I'm Sam 👋
 
+#### I like to spend 30 hours automating work that could be done manually in 30 minutes 
 <!--
 **samkim777/samkim777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
