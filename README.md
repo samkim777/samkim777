@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-How to reach me: <https://www.linkedin.com/in/samkim7> <samkim77725@gmail.com> 🌱
+How to reach me: <samkim77725@gmail.com> 🌱
+Linkedin: <https://www.linkedin.com/in/samkim7> 💬
